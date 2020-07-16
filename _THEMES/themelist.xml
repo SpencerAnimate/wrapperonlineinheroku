@@ -32,6 +32,7 @@
 	<theme id="street" name="Street (Unused)" enable="N" />
 	<theme id="underdog" name="Saturday Morning TV" enable="N" />
 	<theme id="willie" name="Willie Nelson" enable="N" />
+	<theme id="newtheme" name="Custom Library" enable="N" />
 	<theme id="toonadv" name="Toon Adventure" enable="N" />
 	<theme id="common" name="Common" thumb="matchboy-stand.swf" />
 	<whiteword />
